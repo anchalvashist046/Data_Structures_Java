@@ -20,19 +20,6 @@ This repository contains various **Data Structures and Algorithms** implementati
 
 ---
 
-## ⚙️ How to Use
-
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/anchalvashist046/Data_Structures_Java.git
-2. **Navigate to the Directory**
-    ```bash
-    cd Data_Structures_Java
-3. **Run the Java Files**
-   ```bash
-   cd "1. Time Complexity"
-   javac <filename>.java
-   java <filename>
 
 🤝 Contributions
 Contributions are welcome! If you have any suggestions or improvements, feel free to fork the repository and submit a pull request.
